@@ -1,0 +1,39 @@
+.mapouter {
+  margin-left: 37%;
+  margin-top: -5%;
+}
+.placeshow-nearby-chamge {
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  display: flex;
+  height: 89vh;
+  flex-wrap: wrap;
+}
+.container-list-nearby-lab {
+  height: 80vh;
+  width: 70vh;
+  background-color: #79879e;
+  margin-left: 3%;
+  position: absolute;
+  border-radius: 30px;
+}
+.boxes-labtest-hospir {
+  background-color: rgb(255, 255, 255);
+  height: 120px;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 20%;
+  cursor: pointer;
+}
+.boxes-labtest-hospir {
+  display: flex;
+}
+#iconLocation {
+  color: rgb(145, 25, 25);
+  margin-right: 2%;
+}
+#centeralign-new {
+  margin-left: 100%;
+}
+.overall-page-container-display {
+  background-color: rgb(255, 255, 255);
+}

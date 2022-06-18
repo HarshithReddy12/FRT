@@ -1,0 +1,17 @@
+.boxCompleted-boxModulepayment {
+  height: 40vh;
+  background-color: rgb(83, 214, 83);
+
+  width: 100vh;
+  margin-left: 25%;
+  border-radius: 30px;
+  padding-left: 5%;
+  padding-top: 2%;
+  margin-top: 10%;
+}
+.boxCompleted-boxModulepayment {
+  display: flex;
+}
+.CP-detailsOfpayment {
+  margin-left: 6%;
+}

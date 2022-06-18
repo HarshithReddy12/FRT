@@ -1,0 +1,30 @@
+.aligh-right-flex-api {
+  /* display: flex;
+  align-items: center; */
+}
+.imgSmall-cardapi {
+  height: 500px;
+  width: 533px;
+  background-color: red;
+  margin-bottom: 2%;
+  margin-left: 35%;
+  cursor: pointer;
+  border-top-left-radius: 55px;
+  border-top-right-radius: 55px;
+}
+#imageUrlAPi {
+  height: 300px;
+  width: 533px;
+  border-top-left-radius: 55px;
+  border-top-right-radius: 55px;
+}
+.alighflex {
+  display: flex;
+  flex-direction: row;
+}
+#ratingdetailsapi {
+  float: right;
+  position: absolute;
+  margin-left: 29%;
+  transform: translateY(-45px);
+}

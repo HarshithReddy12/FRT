@@ -1,0 +1,79 @@
+#goal-title {
+  margin-top: 5%;
+  position: absolute;
+  text-decoration: underline;
+}
+.weightlose {
+  color: black;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 5%;
+}
+.div-Matter-info {
+  display: flex;
+}
+.actual-weight {
+  margin-right: 60px;
+}
+#weightMeter {
+  height: 200px;
+}
+.d {
+  text-align: center;
+}
+.divQA {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.AA,
+.BB {
+  margin-right: 100px;
+}
+.percent {
+  margin-top: 10%;
+  position: absolute;
+  margin-left: 70%;
+}
+.divisiongoal {
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+
+  height: 20px;
+  width: 40%;
+  border-radius: 20px;
+  position: absolute;
+  transform: rotate(90deg);
+  margin-left: 46%;
+  margin-top: 30%;
+}
+.conGoal-1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: green;
+  position: absolute;
+  height: 150px;
+  /* width: 500px; */
+  margin-left: 70%;
+  margin-top: 16%;
+  padding-left: 2%;
+  padding-right: 2%;
+  cursor: pointer;
+}
+.conGoal-1 img {
+  height: 60px;
+}
+.taskwork {
+}
+#task2goal {
+  margin-top: 27%;
+  position: absolute;
+  width: 435px;
+}
+#task3goal {
+  margin-top: 38%;
+  width: 435px;
+  background-color: red;
+}
+#Strikeoff {
+}

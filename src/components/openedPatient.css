@@ -1,0 +1,14 @@
+#PatientOpened-top-display-loggedIn {
+  width: 100%;
+}
+.align-right-side-BILLING {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#spacing-Resport-between {
+  margin-left: 20%;
+}
+#lineSpace-Resport-between {
+  margin-top: 5%;
+}

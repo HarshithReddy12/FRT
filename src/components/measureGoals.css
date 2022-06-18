@@ -1,0 +1,45 @@
+.covertotalgoals {
+  background-color: #392c7c;
+  height: 150vh;
+  color: white;
+  z-index: 1;
+}
+#track-pastRecord {
+  position: absolute;
+  margin-top: 5%;
+}
+#record10 {
+  margin-top: 10%;
+  position: absolute;
+}
+.contrackgoal1 {
+  background-image: url(../images/covid/Trackgoal1.png);
+  width: 500px;
+  position: absolute;
+  background-position: center;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* box-shadow: 5px 10px #6d8dd1; */
+  margin-left: 32%;
+  cursor: pointer;
+  margin-top: 10%;
+}
+.harshavardhan {
+  display: flex;
+}
+.distravelled {
+  margin-right: 6%;
+  padding-left: 5%;
+}
+#secondCSE {
+  margin-top: 25%;
+  background-image: url(../images/covid/Trackgoal2.png);
+}
+#thirdCSE {
+  margin-top: 40%;
+  background-image: url(../images/covid/Trackgoal3.png);
+}
+#fourthCSE {
+  margin-top: 55%;
+}

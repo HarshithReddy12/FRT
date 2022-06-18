@@ -1,0 +1,25 @@
+.hrBg1 {
+  height: 50%;
+  width: 100%;
+}
+.drop-downBox {
+  margin-left: 45%;
+  margin-top: 2%;
+}
+#back {
+  position: absolute;
+  font-size: 20px;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  z-index: 2;
+}
+.parallel-side-flex {
+  display: flex;
+  align-items: center;
+
+  flex-direction: initial;
+}
+.playbutton-icon {
+  margin-left: 2%;
+}

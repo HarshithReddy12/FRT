@@ -1,0 +1,46 @@
+#short-admin-displayPhoto {
+  height: 350px;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+.align-right-Strength-admin {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#moveSomeRightAlign-Admin {
+  margin-left: 30%;
+}
+#cursorPointer-ASSIGNING {
+  cursor: pointer;
+  border: 2px solid black;
+  width: 230px;
+}
+.INCREMENTpAGE_dETAILS {
+  height: 150vh;
+}
+.line1-admin {
+  height: 2px;
+  width: 350px;
+  background-color: black;
+}
+.box1-adminAssign-set {
+  position: absolute;
+  margin-left: 30%;
+  border: 2px solid black;
+  height: 30vh;
+  width: 36vh;
+}
+#moveSomewhat {
+  margin-left: 50%;
+}
+#moveSomewhat1 {
+  margin-left: 70%;
+}
+#moveSomewhat2 {
+  margin-top: 20%;
+}
+#moveSomewhat3 {
+  margin-left: 50%;
+  margin-top: 20%;
+}

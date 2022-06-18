@@ -1,0 +1,40 @@
+/* .videocalltype,
+.audiocalltype {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+.typeOfonlinemodee img {
+  height: 300px;
+}
+.typeOfonlinemodee button {
+  height: 50px;
+  width: 150px;
+}
+.typeOfonlinemodee {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10%;
+  position: absolute;
+  margin-left: 30%;
+}
+.videocalltype {
+  margin-right: 50%;
+}
+
+#videocall-button-change {
+  background-color: #ffce31;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 30%;
+}
+
+#audiocall-button-change {
+  background-color: #78a6fc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20%;
+}

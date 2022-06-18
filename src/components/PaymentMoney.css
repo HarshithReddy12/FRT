@@ -1,0 +1,77 @@
+.centerbox-paymentTransaction {
+  height: 50vh;
+  background-color: #5254b1c7;
+  border-radius: 30px;
+  width: 600px;
+  margin-left: 25%;
+  margin-top: 8%;
+}
+#Payment-module-text {
+  margin-left: 23%;
+}
+#Rate-payment-module {
+  margin-left: 5%;
+  font-size: 80px;
+}
+#check-square-Payment {
+  color: green;
+}
+.aligin-right-payment-module {
+  display: flex;
+  justify-content: center;
+}
+#payment-move-left {
+  margin-left: 5%;
+}
+#PaymentProceed-module-button {
+  height: 50px;
+  width: 150px;
+  position: absolute;
+  margin-left: 53%;
+  margin-top: 21.6%;
+  border-radius: 20px;
+}
+.payment-car-details {
+  height: 60vh;
+  background-color: #ad3fd8c7;
+  margin-top: 5%;
+  width: 800px;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+  padding-left: 3%;
+  padding-top: 1.5%;
+}
+#short4 {
+  width: 60px;
+  height: 50px;
+}
+.total-inputdiv-cardinput {
+  display: flex;
+  margin-left: 6%;
+}
+.cvvbox {
+  position: absolute;
+  margin-left: 35%;
+  transform: translateY(-100px);
+}
+#long-text-cardHolderName {
+  width: 35%;
+  height: 55px;
+  margin-left: 5%;
+}
+.cardHolderName {
+  margin-top: 5%;
+}
+#short5 {
+  height: 50px;
+}
+#CPayment-button {
+  height: 50px;
+  margin-left: 40%;
+  margin-top: 3%;
+  background-color: rgb(56, 56, 61);
+  border: none;
+  color: rgb(91, 91, 161);
+}

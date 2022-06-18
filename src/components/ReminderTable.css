@@ -1,0 +1,39 @@
+.reminder-table-harsha {
+  height: 100.2vh;
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+#Table-heading {
+  font-size: 50px;
+  margin-top: 5%;
+  position: absolute;
+  text-align: center;
+}
+.table-begin {
+  position: absolute;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+th {
+  width: 120px;
+  background-color: rgb(59, 59, 172);
+}
+#ttHeading1 {
+  font-size: 25px;
+}
+td {
+  padding-left: 4%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: white;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+table {
+  width: 600px;
+}
+#center-Reminder-table {
+  margin-left: 30%;
+}

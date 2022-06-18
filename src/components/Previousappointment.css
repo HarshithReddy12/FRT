@@ -1,0 +1,69 @@
+.bigbox-appointment {
+  height: 250px;
+  background-color: white;
+  width: 250px;
+  color: black;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10%;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.small-bar-details-appointment1 {
+  height: 100px;
+  width: 400px;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: black;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.small-bar-details-appointment2 {
+  height: 100px;
+  width: 400px;
+  background-color: white;
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: black;
+  cursor: pointer;
+  border-radius: 100px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.top-row-appointment-dashboard {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5%;
+  flex-wrap: wrap;
+}
+#zero-number-display {
+  font-size: 10rem;
+  color: black;
+  text-align: center;
+}
+#label-appointment-number-display {
+  padding-left: 2%;
+}
+.totalpage-dashboard-appointment {
+  background-color: #ccc;
+  height: 100vh;
+}
+.reminder-at-appointmnet {
+  background-color: white;
+  width: 250px;
+  border-radius: 10px;
+}
+.div-containers-botton-appointment {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 5%;
+  text-align: center;
+}

@@ -1,0 +1,12 @@
+#coronabg {
+  width: 100%;
+  height: 50%;
+}
+.features-corona {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5%;
+}
+.photoOf-feature {
+  cursor: pointer;
+}
